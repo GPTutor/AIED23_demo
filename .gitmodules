@@ -1,0 +1,3 @@
+[submodule "Bucket-Raffle-System"]
+	path = Bucket-Raffle-System
+	url = https://github.com/Bucket-Protocol/Bucket-Raffle-System.git

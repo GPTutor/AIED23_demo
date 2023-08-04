@@ -4,6 +4,5 @@ Download it at [VS Code Marketplace Place](https://marketplace.visualstudio.com/
 
 ### API Key for AIED 2023 Demo:
 
-```
-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
-```
+Go here:
+https://hackmd.io/@EasonC/SyqxnzWt3
