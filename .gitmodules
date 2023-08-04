@@ -1,3 +1,15 @@
 [submodule "Bucket-Raffle-System"]
 	path = Bucket-Raffle-System
 	url = https://github.com/Bucket-Protocol/Bucket-Raffle-System.git
+[submodule "Python/AIED23_demo"]
+	path = Python/AIED23_demo
+	url = https://github.com/GPTutor/AIED23_demo.git
+[submodule "Python/fastapi-mongodb-realworld-example-app"]
+	path = Python/fastapi-mongodb-realworld-example-app
+	url = https://github.com/EasonC13/fastapi-mongodb-realworld-example-app.git
+[submodule "Typescript/gptutor-extension"]
+	path = Typescript/gptutor-extension
+	url = https://github.com/GPTutor/gptutor-extension
+[submodule "Typescript/--force"]
+	path = Typescript/--force
+	url = https://github.com/GPTutor/gptutor-extension
